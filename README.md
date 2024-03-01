@@ -23,7 +23,9 @@ samples, guidance on mobile development, and a full API reference.
  
 ## Resultados
 ### Pantalla1
-![image](https://github.com/BerthaAreliFuentesRodriguez/p12_EntrePaginas-6J/assets/143548448/5c9f1def-084c-49b5-965d-03aab24869f8)
+![image](https://github.com/BerthaAreliFuentesRodriguez/p12_EntrePaginas-6J/assets/143548448/c8db5092-124c-4f79-8459-3e7fb38894eb)
+
 ### Pantalla2
-![image](https://github.com/BerthaAreliFuentesRodriguez/p12_EntrePaginas-6J/assets/143548448/84873c59-1b1f-4950-9614-c703654ffd16)
+![image](https://github.com/BerthaAreliFuentesRodriguez/p12_EntrePaginas-6J/assets/143548448/805fd138-11e8-4556-acea-208f9c420b39)
+
 
